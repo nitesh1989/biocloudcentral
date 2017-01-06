@@ -35,7 +35,7 @@ NOTE: We assume the user has a AWS secret key and access key.
 
 ![Choose subnet](./subnet_image.png)
 
-6. Click `Create cluster` to Launch the AMI.
+* Click `Create cluster` to Launch the AMI.
 
 
 An example screen shot of what your page should look like is given below so that you are on the right track.
